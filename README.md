@@ -3,7 +3,7 @@
 This ETL solution leverages SQL Server Integration Services (SSIS) to extract transaction data from flat files, transform and clean the data, and load it into a SQL Server database. This setup is specifically designed to handle telecom transaction data, process errors, and perform audits.
 <br><br/>
 ## *Table of Contents*
-  *  Overview
+  	*  Overview
 	*  Database Tables
 	*  Variables
 	*  SSIS Package Workflow
